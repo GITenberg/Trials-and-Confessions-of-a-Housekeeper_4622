@@ -1,0 +1,48 @@
+_repo: Trials-and-Confessions-of-a-Housekeeper_4622
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Uncle Herbert
+    - Herbert, Uncle
+    - Arthur, Timothy Shay
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+description: This happened a very few years after, my marriage, and is one of those
+  feeling incidents in life that we never forget. My husband's income was moderate,
+  and we found it necessary to deny ourselves many little articles of ornament and
+  luxury, to the end that there might be no serious abatement in the comforts of life.
+  In furnishing our house, we had been obliged to content ourselves mainly with things
+  useful. Our parlor could boast of nine cane-seat chairs; one high-backed cane-seat
+  rocking chair; a pair of card tables; a pair of ottomans, the covers for which I
+  had worked in worsted; and a few illustrated books upon the card tables. There were
+  no pictures on the walls, nor ornaments on the mantle pieces. For a time after my
+  marriage with Mr. Smith, I did not think much about the plainness of our style of
+  living; but after a while, contracts between my own parlors and those of one or
+  two friends, would take place in my mind; and I often found myself wishing that
+  we could afford a set of candelabras, a pair of china vases, or some choice pieces
+  of Bohemian glass. In fact, I set my heart on something of the kind, though I concealed
+  the weakness from my husband. Time stole on, and one increase after another to our
+  family, kept up the necessity for careful expenditure, and at no time was there
+  money enough in the purse to justify any outlay beyond what the wants of the household
+  required.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4622'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Housewives -- Fiction'
+- !lcsh 'Home economics -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Housekeeping -- Fiction'
+- GITenberg
+title: Trials and Confessions of a Housekeeper
+url: http://www.gutenberg.org/ebooks/4622
