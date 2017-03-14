@@ -1,5 +1,8 @@
 _repo: Trials-and-Confessions-of-a-Housekeeper_4622
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Arthur, T. S. (Timothy Shay)
@@ -30,6 +33,8 @@ description: This happened a very few years after, my marriage, and is one of th
   family, kept up the necessity for careful expenditure, and at no time was there
   money enough in the purse to justify any outlay beyond what the wants of the household
   required.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4622#Trials-and-Confessions-of-a-Housekeeper
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
